@@ -20,15 +20,13 @@ public class App {
 
                 JLabel etiqueta = new JLabel("De");
                 JComboBox<String> comboboxFrom;
-                String [ ] currencys = {"USD - Dollar", "EUR - Euro","MXN - "
-                		+ "Peso Mexicano","CAD - Dolar Canadiense","GBP - Libra Esterlina",
-                		"JPY - Yen","CNH - Yuan","SEK - Corona Sueca"};
+                String [ ] currencys = {"USD - Dolar", "ARS - Peso Argentino","BRL - "
+                		+ "Real Brasileño","CLP - Peso Chileno","COP - Peso Colombiano"};
                 comboMonedas = new JComboBox<>(curren
                 JLabel etiquetaA = new JLabel("a:");
                 JComboBox<String> comboboxTo;
                 comboMoneda = new JComboBox<>(currencys);
                 JLabel Monto = new JLabel("Monto:");
-                
                
                 JTextField campoMonto = new JTextField(10);
               
