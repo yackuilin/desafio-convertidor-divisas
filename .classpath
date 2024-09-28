@@ -23,10 +23,10 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/luisgustavogomezvargas/Downloads/jar_files/annotations-13.0.jar"/>
-	<classpathentry kind="lib" path="/Users/luisgustavogomezvargas/Downloads/jar_files/kotlin-stdlib-1.4.10.jar"/>
-	<classpathentry kind="lib" path="/Users/luisgustavogomezvargas/Downloads/jar_files/kotlin-stdlib-common-1.4.10.jar"/>
-	<classpathentry kind="lib" path="/Users/luisgustavogomezvargas/Downloads/jar_files/okhttp-4.10.0-RC1.jar"/>
-	<classpathentry kind="lib" path="/Users/luisgustavogomezvargas/Downloads/jar_files/okio-2.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jackelinhernandez/Downloads/jar_files/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Users/jackelinhernandez/Downloads/jar_files/kotlin-stdlib-1.4.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Users/jackelinhernandez/Downloads/jar_files/kotlin-stdlib-common-1.4.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Users/jackelinhernandez/Downloads/jar_files/okhttp-4.10.0-RC1.jar"/>
+	<classpathentry kind="lib" path="/Users/Users/jackelinhernandez/Downloads/jar_files/okio-2.9.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
